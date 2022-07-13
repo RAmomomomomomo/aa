@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Book_class04\" />
+    <Folder Include="Book_class05\" />
+    <Folder Include="Book_class06\" />
+    <Folder Include="Book_class07\" />
+    <Folder Include="Book_class08\" />
+    <Folder Include="Book_class09\" />
+    <Folder Include="Book_class10\" />
+    <Folder Include="Book_class11\" />
+    <Folder Include="Book_class12\" />
+    <Folder Include="Book_class01\" />
+  </ItemGroup>
+
+</Project>
